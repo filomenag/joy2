@@ -14,14 +14,14 @@ float: right;
 
 #boneco{
 position: absolute;
-widht: 100px;
+width: 100px;
 height: 100px;
 left: 100px;
 top: 20px;
 }
 
 #controlos{
-widht: 90%;
+width: 90%;
 height: 100px;
 margin: 0 auto;
 position: relative;
@@ -29,7 +29,7 @@ border: 1px solid black;
 }
 
 #area de jogo{
-widht: 90%;
+width: 90%;
 height: 400px;
 margin: 0 auto;
 position: relative;
